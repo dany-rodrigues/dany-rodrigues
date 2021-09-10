@@ -22,3 +22,5 @@
   ![Snake animation](https://github.com/dany-rodrigues/dany-rodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  ![Snap](https://user-images.githubusercontent.com/85651629/132928195-f0868b10-6131-4868-acc8-539f98d9ae66.gif)

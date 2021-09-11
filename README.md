@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/85651629/132918254-f46a00e7-a2bc-4a8e-8c76-78f184092a95.gif)
+![o_ceu_e_o_limite](https://user-images.githubusercontent.com/85651629/132951777-a96f4292-76d6-4295-894e-5cf703c59b6b.gif)
 
 - 🔭 A oportunidade da minha vida.
 - 🌱 Aluna Recode Pro 2021

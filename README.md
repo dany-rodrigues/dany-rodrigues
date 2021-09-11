@@ -20,6 +20,8 @@
  	<a href="https://www.linkedin.com/in/danyellerodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/dany-rodrigues/dany-rodrigues/blob/output/github-contribution-grid-snake.svg)
+  
+  ![snape](https://user-images.githubusercontent.com/85651629/132929180-8429f08d-a4cc-4ccf-a542-9f87c24c2441.gif)
  
 </div>
 

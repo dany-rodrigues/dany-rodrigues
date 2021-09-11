@@ -2,7 +2,7 @@
 
 - 🔭 A oportunidade da minha vida.
 - 🌱 Aluna Recode Pro 2021
-- 🤔 Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
+- 🤔  Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
 - 📫 Email: danydrigues@ufrj.br
 -->
 

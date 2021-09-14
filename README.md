@@ -1,6 +1,5 @@
 ![o_ceu_e_o_limite](https://user-images.githubusercontent.com/85651629/132951777-a96f4292-76d6-4295-894e-5cf703c59b6b.gif)
 
-- 🔭 A oportunidade da minha vida.
 - 🌱 Aluna Recode Pro 2021
 - 🤔  Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
 - 📫 Email: danydrigues@ufrj.br

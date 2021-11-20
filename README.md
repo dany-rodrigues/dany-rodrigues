@@ -2,7 +2,9 @@
 
 
 ☝  -Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
+<br>
 📖 -Full Stack Developer - Recode Pro 2021
+<br>
 😍 -Química UFRJ
 
 

@@ -1,9 +1,9 @@
 
 
 
-☝  Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
-📖 Full Stack Developer - Recode Pro 2021
-😍 Química 
+☝  -Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
+📖 -Full Stack Developer - Recode Pro 2021
+😍 -Química UFRJ
 
 
 <div>

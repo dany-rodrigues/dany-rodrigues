@@ -1,11 +1,12 @@
-<h2>Olá! Sou Danyelle Rodrigues.</h2>
+<h2>Welcome! I'm Danyelle Rodrigues.</h2>
 
 
-- ☝  Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
+- ☝  "Don't limit yourself. Many people limit themselves to what they think they can do. <br>
+You can go as far as your mind lets you. What you believe, remember, you can achieve."- Mary Kay Ash
 
-- 📖 Full Stack Developer - Recode Pro 2021
+- 📖 Full Stack Developer-Recode Pro 2021
 
-- 😍 Química UFRJ
+- 😍 Chemistry-UFRJ
 
 
 <div>

@@ -1,17 +1,17 @@
+<h2>Olá! Sou Danyelle Rodrigues.</h2>
 
 
+- ☝  Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
 
-☝  -Se você acredita que pode, você pode. Se Acredita que não pode, também está certo.
-<br>
-📖 -Full Stack Developer - Recode Pro 2021
-<br>
-😍 -Química UFRJ
+- 📖 Full Stack Developer - Recode Pro 2021
+
+- 😍 Química UFRJ
 
 
 <div>
   <a href="https://github.com/dany-rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-rodrigues&show_icons=true&theme=autocontraste&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-rodrigues&layout=compact&langs_count=7&theme=autocontraste"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-rodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   

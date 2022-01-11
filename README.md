@@ -1,11 +1,15 @@
-
-
+<div align="center">
+  <img align="center" alt="quem-sou-eu" style="border-radius:60px;" src="https://github.com/dany-rodrigues/quemsoueu/blob/main/gif-canva-colorgithub.gif">
+ </div>
+ 
+ 
+ 
 
 <div align="center">
   
   <a href="https://github.com/dany-rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-rodrigues&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dany-rodrigues&show_icons=true&theme=radical&hide_borde_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-rodrigues&layout=compact&langs_count=7&theme=radical&hide_borde"/>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dany-rodrigues&theme=radical&hide_border=falso&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 

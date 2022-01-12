@@ -6,12 +6,11 @@
 - 🌱 Atualmente estou me aprofundando em Java.
 - 🤔 Estou procurando ajuda com React.JS.
 - ❤️ Sou apaixonada por Química.
-- 🔭 O céu não é o limite de quem é amante do Universo.
 - 😄 Sou fã de Harry Potter.
+- 🔭 O céu não é o limite de quem é amante do Universo.
 - ⚡ Frase que me inspira: "Se você diz que pode, você pode. Se você diz que não pode,você tem razão." Mary Kay Ash
 
 <br> <br> <br> 
-
 <div align="center">
   
   <a href="https://github.com/dany-rodrigues">

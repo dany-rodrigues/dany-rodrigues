@@ -2,7 +2,10 @@
   <img align="center" alt="quem-sou-eu" style="border-radius:60px;" src="https://github.com/dany-rodrigues/quemsoueu/blob/main/gif-canva-colorgithub.gif">
  </div>
  
- 
+- 🌱 Atualmente estou me aprofundando em Java.
+- 🤔 Estou procurando ajuda com React.JS.
+- 😄 Sou fã de Harry Potter.
+- ⚡ Frase que me inspiram "Se você diz que pode, você pode. Se você diz que não pode,você tem razão." Mary Kay Ash
  
 
 <div align="center">
